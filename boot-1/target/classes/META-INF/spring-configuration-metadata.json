@@ -1,0 +1,77 @@
+{
+  "groups": [
+    {
+      "name": "mycar",
+      "type": "com.yy.boot.bean.Car",
+      "sourceType": "com.yy.boot.bean.Car"
+    },
+    {
+      "name": "person",
+      "type": "com.yy.boot.bean.Person",
+      "sourceType": "com.yy.boot.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mycar.brand",
+      "type": "java.lang.String",
+      "sourceType": "com.yy.boot.bean.Car"
+    },
+    {
+      "name": "mycar.price",
+      "type": "java.lang.Integer",
+      "sourceType": "com.yy.boot.bean.Car"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.all-pets",
+      "type": "java.util.Map<java.lang.String,java.util.List<com.yy.boot.bean.Pet>>",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.animal",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.interests",
+      "type": "java.lang.String[]",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.pet",
+      "type": "com.yy.boot.bean.Pet",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.salary",
+      "type": "java.util.Set<java.lang.Double>",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.score",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.yy.boot.bean.Person"
+    },
+    {
+      "name": "person.user-name",
+      "type": "java.lang.String",
+      "sourceType": "com.yy.boot.bean.Person"
+    }
+  ],
+  "hints": []
+}

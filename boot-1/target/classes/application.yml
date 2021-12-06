@@ -1,0 +1,32 @@
+person:
+  userName: xiao
+  boss: true
+  birth: 2021/12/5
+  age: 21
+  pet:
+    name: 小狗
+    weight: 9.8
+  interests:
+    - 篮球
+    - 足球
+    - 18
+  animal: [小狗,小猫]
+  score: {english:80,math:90}
+  salary:
+    - 9999.1
+    - 999.89
+  allPets:
+    sick:
+      - {name: 小狗,weight: 5.8}
+      - name: 小猫
+        weight: 4.2
+      - name: 小虫
+        weight: 1.2
+    health:
+      - {name: 阿花,weight: 99.9}
+      - {name: 阿明,weight: 99.9}
+
+
+mycar:
+  brand: BYD
+  price: 100000
